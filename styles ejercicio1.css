@@ -1,9 +1,9 @@
-qbody{
+body{
     background: #fff;
     margin: 0; 
 }
 .tarjeta{
-    background: #ff0b;
+    background: #ff0c;
     color: black;padding:0px;
     width: 315px;height: 350px; margin: auto;
 ;margin-top: 50PX;border-radius:8px;
@@ -32,15 +32,15 @@ h3{
 }
 
 .cardred{
-    background: #f00b;
+    background: #f00c;
 
 }
 .cardblue{
-    background: #00fb;
+    background: #00fc;
     box-shadow: 0 0 15px;
 }
 .cardgreen{
-    background: #0f0b;
+    background: #0f0c;
     box-shadow: 0 0 15px;
 }
 .red{
