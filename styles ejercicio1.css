@@ -3,7 +3,7 @@ body{
     margin: 0; 
 }
 .tarjeta{
-    background: #ff0d;
+    background: #ff0b;
     color: black;padding:0px;
     width: 315px;height: 350px; margin: auto;
 ;margin-top: 50PX;border-radius:8px;
@@ -32,15 +32,15 @@ h3{
 }
 
 .cardred{
-    background: #f00e;
+    background: #f00b;
 
 }
 .cardblue{
-    background: #00fd;
+    background: #00fb;
     box-shadow: 0 0 15px;
 }
 .cardgreen{
-    background: #0f0d;
+    background: #0f0b;
     box-shadow: 0 0 15px;
 }
 .red{
