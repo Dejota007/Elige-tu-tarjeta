@@ -1,4 +1,4 @@
-body{
+qbody{
     background: #fff;
     margin: 0; 
 }
@@ -20,7 +20,7 @@ h3{
 }
 .párrafo{
     text-align: justify ;
-    padding-left: 15px;padding-right: 15PX;padding-bottom: 1PX;font-size: 12px
+    padding-left: 15px;padding-right: 15PX;padding-bottom: 7PX;font-size: 12px
 ;border-bottom-left-radius: 3px;border-bottom-right-radius: 3px;
 }
 
